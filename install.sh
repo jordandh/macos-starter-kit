@@ -14,22 +14,19 @@ brew doctor
 
 
 #
-# Install node
+# brew installs
 #
+brew install caskroom/cask/brew-cask
 brew install node
 
 
 #
-# Install grunt
+# npm installs
 #
 npm install -g grunt-cli
-
-#
-# Install gulp
-#
 npm install -g gulp
+npm install -g bower
 
 #
-# Install bower
+# brew-cask installs
 #
-npm install -g bower
