@@ -30,10 +30,13 @@ npm install -g bower
 #
 # brew-cask installs
 #
+brew cask install dropbox
+brew cask install google-drive
 brew cask install google-chrome
 brew cask install firefox
 brew cask install codekit
 brew cask install tower
+brew cask install steam
 
 
 
