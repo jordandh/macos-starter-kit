@@ -33,6 +33,7 @@ npm install -g bower
 brew cask install google-chrome
 brew cask install firefox
 brew cask install codekit
+brew cask install tower
 
 
 
