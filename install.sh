@@ -30,3 +30,10 @@ npm install -g bower
 #
 # brew-cask installs
 #
+brew cask install google-chrome
+brew cask install firefox
+brew cask install codekit
+
+
+
+
