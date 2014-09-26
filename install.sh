@@ -27,17 +27,16 @@ npm install -g grunt-cli
 npm install -g gulp
 npm install -g bower
 
+
 #
 # brew-cask installs
 #
+brew cask install sublime-text
 brew cask install dropbox
 brew cask install google-drive
 brew cask install google-chrome
 brew cask install firefox
 brew cask install codekit
 brew cask install tower
+brew cask install vmware-fusion
 brew cask install steam
-
-
-
-
