@@ -5,7 +5,7 @@
 
 
 #
-# Open xcode so that the license can be agreed with
+# Open xcode so that the license can be agreed to
 # This makes it possible to use the xcode command line tools which homebrew requires
 #
 open -W -a /Applications/Xcode.app
