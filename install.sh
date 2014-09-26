@@ -5,6 +5,13 @@
 
 
 #
+# Open xcode so that the license can be agreed with
+# This makes it possible to use the xcode command line tools which homebrew requires
+#
+open -W -a /Applications/Xcode.app
+
+
+#
 # Install homebrew
 #
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
