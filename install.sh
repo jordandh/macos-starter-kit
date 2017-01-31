@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Before running this cript give permissions to it first
+# Before running this script
+# Install xcode
+# Give permissions to the script first
 # chmod u+x <script path>
 
 
@@ -39,11 +41,15 @@ npm install -g bower
 # brew-cask installs
 #
 brew cask install sublime-text
+brew cask install visual-studio
 brew cask install dropbox
-brew cask install google-drive
+#brew cask install google-drive
 brew cask install google-chrome
 brew cask install firefox
-brew cask install codekit
-brew cask install tower
+#brew cask install codekit
+#brew cask install tower
 brew cask install vmware-fusion
-brew cask install steam
+#brew cask install steam
+#brew cask install caffeine
+bew cask install skype
+brew cask install slack
