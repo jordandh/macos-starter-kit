@@ -11,3 +11,13 @@ brew cask install dotnet
 
 ln -s /usr/local/opt/openssl/lib/libcrypto.1.0.0.dylib /usr/local/lib/
 ln -s /usr/local/opt/openssl/lib/libssl.1.0.0.dylib /usr/local/lib/
+
+
+#
+# Install sqlite?
+#
+# brew install sqlite
+
+# brew cask install sqlitebrowser
+# OR
+# brew cask install sqlitestudio
